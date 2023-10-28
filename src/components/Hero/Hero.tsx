@@ -23,7 +23,7 @@ const Hero = () => {
           | min-[1280px]:text-[98px] min-[1280px]:leading-[118px]"
           >
             <span className="font-medium">Uncover</span>
-            <span>Carpathian's</span>
+            <span>Carpathians</span>
             <span>Secrets</span>
           </h1>
           <h2

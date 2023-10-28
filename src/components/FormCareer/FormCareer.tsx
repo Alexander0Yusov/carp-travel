@@ -28,7 +28,7 @@ const FormCareer = () => {
       | min-[768px]:w-[222px] min-[768px]:mb-[18px] min-[768px]:ml-0 min-[768px]:mt-[98px]
       | min-[1280px]:mt-0 min-[1280px]:text-[18px] min-[1280px]:leading-[24px] min-[1280px]:w-[234px]"
       >
-        Don't miss your opportunity! Fill out the form right now and join our
+        Dont miss your opportunity! Fill out the form right now and join our
         team!
       </p>
       <form
